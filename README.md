@@ -1,9 +1,8 @@
 # Frontend Mentor - Four Card Feature Section Solution
 
 This is my solution to the [Four Card Feature Section challenge](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK) on Frontend Mentor. This challenge helped me practice layout techniques using both Flexbox and CSS Grid.
----
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
   - [The Challenge](#the-challenge)
@@ -16,35 +15,30 @@ This is my solution to the [Four Card Feature Section challenge](https://www.fro
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
----
+## Overview
 
-## 📌 Overview
-
-### ✅ The Challenge
+### The Challenge
 
 Users should be able to:
 
 - View the layout on **desktop (≥1025px)**, **tablet (769–1024px)**, and **mobile (≤768px)** screen sizes
 - See subtle hover states on each feature card
 
-### 📸 Screenshots
+### Screenshots
 
-| 🖥️ Desktop | 📱 Tablet | 📱 Mobile |
+| Desktop | Tablet | Mobile |
 |------------|-----------|-----------|
 | ![Desktop](./screenshots/desktop-screenshot.jpg) | ![Tablet](./screenshots/tablet-screenshot.png) | ![Mobile](./screenshots/mobile-screenshot.jpg) |
 
 
-
-### 🔗 Links
+### Links
 
 - **Solution URL:** [https://github.com/aawaizazhar/fm-four-card-feature-section/blob/main/README.md](https://github.com/aawaizazhar/fm-four-card-feature-section/blob/main/README.md)
 - **Live Site URL:** [https://four-card-feature-section.vercel.app](https://four-card-feature-section.vercel.app)
 
----
+## My Process
 
-## 🛠️ My Process
-
-### ⚙️ Built With
+### Built With
 
 - Semantic **HTML5**
 - **CSS custom properties**
@@ -52,7 +46,7 @@ Users should be able to:
 - **Mobile-first** & responsive workflow
 - [Google Fonts - Poppins](https://fonts.google.com/specimen/Poppins)
 
-### 🧠 What I Learned
+### What I Learned
 
 This project helped me improve my understanding of:
 
@@ -70,7 +64,7 @@ This project helped me improve my understanding of:
 }
 ```
 
-### 📚 Useful Resources
+### Useful Resources
 
 - [CSS Grid Garden](https://cssgridgarden.com/) - Interactive game to learn CSS Grid
 - [Flexbox Froggy](https://flexboxfroggy.com/) - Fun way to learn CSS Flexbox
@@ -78,12 +72,12 @@ This project helped me improve my understanding of:
 - [CSS-Tricks: A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - Detailed reference for CSS Grid
 - [Google Fonts](https://fonts.google.com/) - For the Poppins font family
 
-## 👤 Author
+## Author
 
 - **Awaiz Azhar** – [@aawaizazhar](https://github.com/aawaizazhar)  
 - Frontend Mentor – [@aawaizazhar](https://www.frontendmentor.io/profile/aawaizazhar)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [Frontend Mentor](https://www.frontendmentor.io) for providing this challenge
 - The amazing community of Frontend Mentor for their support and feedback
