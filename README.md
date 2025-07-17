@@ -29,14 +29,10 @@ Users should be able to:
 
 ### 📸 Screenshots
 
-#### 🖥️ Desktop
-![Desktop](./screenshots/desktop-screenshot.jpg)
+| 🖥️ Desktop | 📱 Tablet | 📱 Mobile |
+|------------|-----------|-----------|
+| ![Desktop](./screenshots/desktop-screenshot.jpg) | ![Tablet](./screenshots/tablet-screenshot.png) | ![Mobile](./screenshots/mobile-screenshot.jpg) |
 
-#### 📱 Tablet
-![Tablet](./screenshots/tablet-screenshot.png)
-
-#### 📱 Mobile
-![Mobile](./screenshots/mobile-screenshot.jpg)
 
 
 ### 🔗 Links
@@ -72,6 +68,7 @@ This project helped me improve my understanding of:
     grid-template-columns: 1fr 1fr;
   }
 }
+```
 
 ### 📚 Useful Resources
 
