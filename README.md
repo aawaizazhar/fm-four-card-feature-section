@@ -1,9 +1,6 @@
 # Frontend Mentor - Four Card Feature Section Solution
 
 This is my solution to the [Four Card Feature Section challenge](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK) on Frontend Mentor. This challenge helped me practice layout techniques using both Flexbox and CSS Grid.
-
-![Design preview for the Four Card Feature Section coding challenge](./design/desktop-preview.jpg)
-
 ---
 
 ## 📋 Table of Contents
@@ -30,15 +27,21 @@ Users should be able to:
 - View the layout on **desktop (≥1025px)**, **tablet (769–1024px)**, and **mobile (≤768px)** screen sizes
 - See subtle hover states on each feature card
 
-### 🖼️ Screenshots
+### 📸 Screenshots
 
+#### 🖥️ Desktop
 ![Desktop](./screenshots/desktop-screenshot.jpg)
+
+#### 📱 Tablet
 ![Tablet](./screenshots/tablet-screenshot.png)
+
+#### 📱 Mobile
 ![Mobile](./screenshots/mobile-screenshot.jpg)
+
 
 ### 🔗 Links
 
-- **Solution URL:** [https://github.com/aawaizazhar/four-card-feature-section](https://github.com/aawaizazhar/four-card-feature-section)
+- **Solution URL:** [https://github.com/aawaizazhar/fm-four-card-feature-section](https://github.com/aawaizazhar/fm-four-card-feature-section)
 - **Live Site URL:** [https://four-card-feature-section.vercel.app](https://four-card-feature-section.vercel.app)
 
 ---
