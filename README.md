@@ -37,7 +37,7 @@ Users should be able to:
 
 ### 🔗 Links
 
-- **Solution URL:** [https://github.com/aawaizazhar/fm-four-card-feature-section](https://github.com/aawaizazhar/fm-four-card-feature-section)
+- **Solution URL:** [https://github.com/aawaizazhar/fm-four-card-feature-section/blob/main/README.md](https://github.com/aawaizazhar/fm-four-card-feature-section/blob/main/README.md)
 - **Live Site URL:** [https://four-card-feature-section.vercel.app](https://four-card-feature-section.vercel.app)
 
 ---
